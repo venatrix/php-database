@@ -1,3 +1,4 @@
-Welcome to OpenShift Version3.9 -testing database content!!
+<?php
 
-Try /dbtest.php extension :-)
+echo "Welcome to OpenShift Origin v3.9 ";
+echo "<br>To test the database, TRY /dbtest.php URL";
