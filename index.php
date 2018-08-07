@@ -1,3 +1,3 @@
-Welcome to OpenShift Version3.0.1 -testing database content!!
+Welcome to OpenShift Version3.9 -testing database content!!
 
 Try /dbtest.php extension :-)
