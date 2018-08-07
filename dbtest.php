@@ -10,7 +10,7 @@ $connection = mysqli_connect($dbhost, $dbuser, $dbpwd, $dbname) or die("Error " 
 
 $query = "SELECT * from users" or die("Error in the consult.." . mysqli_error($connection));
 
-echo " This is the list of users created on database: <br>";
+echo " List of users created on database: <br>";
 $rs = $connection->query($query);
 while ($row = mysqli_fetch_assoc($rs)) {
     echo "User Id: ".$row['user_id'] . " User Name: " . $row['username'] . "<br>";
