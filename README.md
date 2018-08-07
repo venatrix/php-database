@@ -1,1 +1,2 @@
-Openshift database connectivity test between MySql Database and PHP Application
+Openshift -
+connectivity test between MySql Database and PHP Application
