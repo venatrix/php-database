@@ -4,7 +4,7 @@
 
 create `mysql` Application from Template
 
-Add Data to the database
+Add Data to the database from te file sql-query
 
 create `php` Application from template
 
