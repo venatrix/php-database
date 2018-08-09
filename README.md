@@ -6,7 +6,7 @@ create `mysql` Application from Template
 
 login to mysql pod
 
-select sampledb from database
+select `sampledb` from database
 
 `select sampledb`
 
