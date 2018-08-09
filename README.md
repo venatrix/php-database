@@ -31,6 +31,8 @@ insert into users values (null, 'Mary Katherine Blackwood');
 
 create `php` Application from template
 
+create a `secret` and bind with PHP Application
+
 check the data with php Application
 ```
 php applcation url/dbtest.php
