@@ -4,7 +4,9 @@
 
 create `mysql` Application from Template
 
-Add Data to the database from te file sql-query
+select sampledb database
+
+Add data to the database from the file sql-query or create your own table
 
 create `php` Application from template
 
