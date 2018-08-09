@@ -8,6 +8,8 @@ Add Data to the database
 
 create `php` Application from template
 
-check the database contents
-
-`http:example.com/dbtest.php
+check the data with php
+```
+php applcation url/dbtest.php
+eg: http:example.com/dbtest.php
+```
