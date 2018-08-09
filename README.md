@@ -4,13 +4,34 @@
 
 create `mysql` Application from Template
 
-select sampledb database
+login to mysql pod
 
-Add data to the database from the file sql-query or create your own table
+select sampledb from database
+
+`select sampledb`
+
+create Table
+
+`create table users (user_id int not null auto_increment, username varchar(200),PRIMARY KEY(user_id));`
+
+Insert values in the table "users"
+```
+insert into users values (null, 'Jay Gatsby');
+insert into users values (null, 'Ignatius Reilly');
+insert into users values (null, 'Alex Portnoy');
+insert into users values (null, 'Sherlock Holmes');
+insert into users values (null, 'Sam Spade');
+insert into users values (null, 'Mary Katherine Blackwood');
+```
+#To check 
+
+`select * from users`
+
+
 
 create `php` Application from template
 
-check the data with php
+check the data with php Application
 ```
 php applcation url/dbtest.php
 eg: http:example.com/dbtest.php
