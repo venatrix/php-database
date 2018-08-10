@@ -8,7 +8,7 @@ login to mysql pod
 
 select `sampledb` from database
 
-`select sampledb`
+`use sampledb`
 
 create Table
 
