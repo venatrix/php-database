@@ -1,5 +1,5 @@
 <?php
 
-echo "OpenShift Origin v3.9 ";
+echo "OpenShift OKD 4 ";
 echo "<br>To test the database ";
 echo "<br> try <url>/dbtest.php   :)  ";
